@@ -1,2 +1,2 @@
-# Site-Concept-1
-Site concept 1
+# Initial page
+
