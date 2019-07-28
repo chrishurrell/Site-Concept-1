@@ -1,5 +1,5 @@
 ---
-description: Electric Vehicle Range Extender for improving range by 35%.
+description: Electric Vehicle Range Extender
 ---
 
 # RangeMaster

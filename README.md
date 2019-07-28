@@ -1,22 +1,34 @@
 ---
 description: >-
   IIM Technology [ Innovation in Motion ] is a technology development company
-  specializing in automotive applications.
+  specializing in automotive applications. [ info@iim.technology ]
 ---
 
 # About
 
 Products under active development
 
-### Q-Drive
+## Q-Drive
 
-### MagDrive
+Spatial Situational Awareness for Autonomous Vehicles.
 
-### MagnaTrak
+## MagRide
 
-### MagDrive
+Regenerative Suspension System.
 
-### RangeMaster
+## MagnaTrak
+
+Electromagnetic Drivetrain.
+
+## MagDrive
+
+Electric Vehicle Traction Motor.
+
+## RangeMaster
+
+Electric Vehicle Range Extender
+
+
 
 
 
