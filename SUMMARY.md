@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About](README.md)
+* [Automotive Subsystems](README.md)
 * [Q-Drive](q-drive.md)
 * [MagRide](magride.md)
 * [MagnaTrak](magnatrak.md)
