@@ -9,3 +9,7 @@
 * [Contact](contact.md)
 * [Invest](invest.md)
 
+## Legal
+
+* [Legal](legal/legal.md)
+
