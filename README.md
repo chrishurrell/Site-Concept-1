@@ -1,10 +1,16 @@
 ---
 description: >-
-  IIM Technology [ Innovation in Motion ] is a technology development company
-  specializing in automotive applications. [ info@iim.technology ]
+  IIM is a product development & technology consultancy firm focusing on
+  high-tech and automotive applications. [ info@iim.technology ]
 ---
 
-# Innovation in Motion : Automotive Subsystems
+# Innovation in Motion : Product Development & Technology Consultancy
+
+IIM is a product development & technology consultancy firm focusing on high-tech hardware, software and automotive applications. 
+
+We do full-spectrum development, researching and prototyping, business development, marketing and design in the high-technology space.
+
+
 
 ![](.gitbook/assets/iim-electric-vehicle-sybsystems.png)
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Innovation in Motion : Automotive Subsystems](README.md)
+* [Innovation in Motion : Product Development & Technology Consultancy](README.md)
 * [Q-Drive](q-drive.md)
 * [MagRide](magride.md)
 * [MagnaTrak](magnatrak.md)
