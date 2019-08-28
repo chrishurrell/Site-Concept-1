@@ -4,7 +4,11 @@ description: >-
   specializing in automotive applications. [ info@iim.technology ]
 ---
 
-# Automotive Subsystems
+# Innovation in Motion : Automotive Subsystems
+
+![](.gitbook/assets/iim-electric-vehicle-sybsystems.png)
+
+
 
 Products under active development
 
