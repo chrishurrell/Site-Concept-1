@@ -2,7 +2,7 @@
 
 * [Innovation in Motion : Product Development & Technology Consultancy](README.md)
 * [Q-Drive](q-drive.md)
-* [MagRide](magride.md)
+* [REGEN](magride.md)
 * [MagnaTrak](magnatrak.md)
 * [MagDrive](magdrive.md)
 * [RangeMaster](rangemaster.md)
