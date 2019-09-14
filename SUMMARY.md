@@ -6,7 +6,7 @@
   * [QGen](products/magride.md)
   * [QForce](products/magdrive.md)
   * [QTrak](products/magnatrak.md)
-  * [DriveMax](products/rangemaster.md)
+  * [QMax](products/rangemaster.md)
   * [Connect](products/connect.md)
 
 ## Contact <a id="contact-1"></a>
