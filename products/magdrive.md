@@ -12,25 +12,11 @@ description: Electric Vehicle Traction Motor
 
 ### **Models**
 
-#### F1
+**F1** : 70kW motor for sedans.
 
-70kW motor for sedans.
+**F2** : **150kW** motor for **SUVs** and **light trucks**.
 
+**F3** : **250kW** motor for **buses**.
 
-
-#### F2
-
-150kW motor for **SUVs** and **light trucks**.
-
-
-
-#### F3
-
-250Kw motor for **buses**.
-
-
-
-#### Fmax
-
-1000Kw motor assembly consisting of **4 x F3 motors** in a mesh gearbox. For industrial vehicles.
+**Fmax** : **1000kW** motor assembly consisting of **4 x F3 motors** in a mesh gearbox. For industrial vehicles.
 
