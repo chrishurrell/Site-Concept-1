@@ -2,7 +2,7 @@
 description: Photonic astral transmutation System
 ---
 
-# Blueshift
+# PhotoShift
 
 Device for the programming & transmutation of astral matter using light.
 
