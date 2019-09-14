@@ -6,11 +6,9 @@ description: >-
 
 # Plasm
 
-**Plasm** is a plasma generating module utilising intelligent circuit design and geometries to produce a **high-powered pulsed plasma output.** 
+**Plasm** is a plasma generating module utilising intelligent circuit design and geometries to produce a **high-powered pulsed plasma output.** Designed for thrusting \( space propulsion \) or energy transfer \( defence \).
 
-**Plasm** is designed for thrusting \( space propulsion \) or energy transfer \( defence \).
-
-
+Plasm allows configurable **plasma pulse** frequency from _1Hz_ to _300Hz_ allowing a wide range of use cases.
 
 **Unit consists of:**
 
