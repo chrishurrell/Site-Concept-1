@@ -8,5 +8,5 @@ A proprietary product designed to exploit unique electromagnetic  and light inte
 
 This allows for new capabilities in rapid production machines.
 
-**Matrix** is used in conjunction with **Photon** in [**RMS**](https://frontera.iim.technology/projects/manufacturing/leoxmf) by [**Frontera**](https://frontera.iim.technology/)**.**
+**Matrix** is used in conjunction with [**Photon**](../photonics/photon.md) in [**Frontera Rapid Manufacturing Station**](https://frontera.iim.technology)**.**
 
