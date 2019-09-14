@@ -1,14 +1,14 @@
 ---
-description: "IIM Plasm\_P1 : Plasma Defence\_Unit"
+description: "IIM Plasm\_DU : Plasma Defence\_Unit"
 ---
 
-# Plasm P1
+# Plasm D1
 
-**The IIM Plasm P1** is a newly conceptualised **plasma energizer** and **defence tool.**
+The **IIM Plasm DU** is a newly conceptualised **plasma energizer** and **defence tool.**
 
-**Plasm** is essentially a **plasma gun** or **plasma cannon** utilising the IIM P1 plasma module.
+**Plasm** is essentially a **plasma gun** or **plasma cannon** utilising the [**IIM Plasm** plasma module](../photonics/plasm.md).
 
-Theoretical functioning of the Plasm Defence Unit:
+Theoretical functioning of the **Plasm Defence Unit:**
 
 1. A lightweight, conductive projectile is shot from the cannon.
 2. Projectile creates a path for ionisation.
@@ -18,7 +18,7 @@ Theoretical functioning of the Plasm Defence Unit:
 6. Device continues to energize the plasma path in order to maintain contact with the target.
 7. The ultracapacitor module is charged by a back-mounted battery pack.
 
-Target power output: 10kW burst \( 1s \) / 4kW continuous\( 10s \)
+Target power output: **10kW burst** \( 1s \) / **4kW continuous** \( 10s \)
 
 
 

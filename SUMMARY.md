@@ -18,7 +18,7 @@
 * [Manufacturing](manufacturing/README.md)
   * [Matrix](manufacturing/matrix.md)
 * [Defence](defence/README.md)
-  * [Plasm P1](defence/plasm.md)
+  * [Plasm D1](defence/plasm.md)
   * [Starfire](defence/starfire.md)
 * [Energy](energy/README.md)
   * [Utilities](energy/utilities/README.md)
