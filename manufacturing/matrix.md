@@ -8,5 +8,5 @@ A proprietary product designed to exploit unique electromagnetic  and light inte
 
 This allows for new capabilities in rapid production machines.
 
-**Matrix** is a product by [**IIM Technology Company**](https://iim.technology), a **Frontera** Affiliate.
+**Matrix** is used in [**RMS**](https://frontera.iim.technology/projects/manufacturing/leoxmf) by [**Frontera**](https://frontera.iim.technology/)**.**
 
