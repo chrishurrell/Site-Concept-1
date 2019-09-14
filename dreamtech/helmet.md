@@ -1,15 +1,21 @@
+---
+description: >-
+  A smart helmet based on the Frontera Exo+ for enhancing astral engagement and
+  dream experiences.
+---
+
 # Helmet
 
-A smart helmet based on the Exo+ for enhancing astral engagement and enhancing dream experiences.
+A smart helmet based on the [**Frontera Exo+**](https://frontera.iim.technology/projects/gear/exo+) for enhancing astral engagement and enhancing dream experiences.
 
-Helmet provides various safety features for secure and comfortable engagement:
+**Helmet** provides various safety features for secure and comfortable engagement:
 
 * \*\*\*\*[**MindLink**](https://frontera.iim.technology/production/technology/propreitary/control/mindlink)\*\*\*\*
 * Interactive HUD \(Heads-up-display\)
 * Health Monitor \(QAIA\) 
 * Networking : Chat, Calls, Video
 * Media Center
-  * Audio module provides the option to time-trigger audio samples for lucid dream stimulation, neurolinguistic programming. 
+  * Audio module provides the option to time-trigger audio samples for lucid dream stimulation & neurolinguistic programming. 
 
 Helmet integrates the following **QAIA** Life Technology products:
 

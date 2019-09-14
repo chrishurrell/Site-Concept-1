@@ -1,6 +1,6 @@
 ---
-description: IM NEXUS products for astral connectivity.
+description: IIM NEXUS products for astral connectivity.
 ---
 
-# NEXUS
+# Nexus
 
