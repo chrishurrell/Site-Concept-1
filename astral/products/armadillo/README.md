@@ -17,10 +17,10 @@ Offers remote monitoring and forms part of a suite of environmental energy condi
 
 **Armadillo** uses the following modules:
 
-* \*\*\*\*[**Watchdog**](../../energy/utilities/em-watchdog.md)\*\*\*\*
-* [**Watchtower**](../../energy/utilities/em-watchtower.md)\*\*\*\*
-* \*\*\*\*[**Transmute**](transmute.md)\*\*\*\*
-* \*\*\*\*[**Vault**](vault.md)\*\*\*\*
+* \*\*\*\*[**Watchdog**](../../../energy/utilities/em-watchdog.md)\*\*\*\*
+* [**Watchtower**](../../../energy/utilities/em-watchtower.md)\*\*\*\*
+* \*\*\*\*[**Transmute**](../transmute.md)\*\*\*\*
+* \*\*\*\*[**Vault**](../vault.md)\*\*\*\*
 
 
 

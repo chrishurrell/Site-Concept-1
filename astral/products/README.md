@@ -38,12 +38,6 @@ System for locating astral artifacts.
 
 
 
-[**EM Defence Tiles**](https://github.com/tesseracttech/EM-Defence-Tiles)
-
-Smart Ceramic Tiles For Protection Against Electromagnetic and Psychotronic Interference. Utilises QuantaCoreOS for remote monitoring and forms part of a suite of environmental energy conditioning and management modules.
-
-
-
 [**Astral Interference Disruptor**](https://github.com/tesseracttech/Astral-Interference-Disruptor)
 
 Magnetic Device for Disrupting Harmful Astral or Psychotronic Interfaces.
