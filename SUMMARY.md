@@ -10,11 +10,11 @@
   * [QTrak](products/magnatrak.md)
   * [QMax](products/rangemaster.md)
   * [Connect](products/connect.md)
-* [Photonics](untitled/README.md)
-  * [Thermos](untitled/thermos.md)
-  * [Photon](untitled/photon.md)
-  * [Thermion](untitled/thermion.md)
-  * [Reflow](untitled/reflow.md)
+* [Photonics](photonics/README.md)
+  * [Thermos](photonics/thermos.md)
+  * [Photon](photonics/photon.md)
+  * [Thermion](photonics/thermion.md)
+  * [Reflow](photonics/reflow.md)
 
 ## Contact <a id="contact-1"></a>
 
