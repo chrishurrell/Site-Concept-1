@@ -2,7 +2,7 @@
 description: DreamReactor enhanced bed gear for enhancing lucid dreaming.
 ---
 
-# Pillow
+# Gear
 
 **DreamReactor**-enhanced bed-gear for enhancing lucid dreaming.
 

@@ -24,10 +24,6 @@ Encapsulated and firewalled system for treating energy sickness using light and 
 
 
 
-**Astral Locator**
-
-System for locating astral artifacts.
-
 
 
 \*\*\*\*
@@ -38,10 +34,6 @@ System for locating astral artifacts.
 
 
 
-[**Astral Interference Disruptor**](https://github.com/tesseracttech/Astral-Interference-Disruptor)
-
-Magnetic Device for Disrupting Harmful Astral or Psychotronic Interfaces.
-
 
 
 [**Astral** **Imaging System**](https://github.com/tesseracttech/Astral-Imaging-System)
@@ -50,25 +42,9 @@ Imaging System for Digitally Recording Astral Environments.
 
 
 
-**DreamReactor**
-
-System for enabling co-operative dream experiences
+\*\*\*\*
 
 
 
-**DreamPod**
-
-EM Firewalled Capsule for protecting against unwanted EM / RF / Scalar interference during sleep
-
-
-
-**EM Sink**
-
-System for Harvesting Stray EM or Astral Smog EM. Can generate usable amounts of energy.
-
-
-
-**Vortex**
-
-For creating vortex flows in astral domains. Used for defence or conditioning of noisy astral environments \(Astral EM Smog Sink\).
+\*\*\*\*
 
