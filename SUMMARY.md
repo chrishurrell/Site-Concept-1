@@ -15,6 +15,8 @@
   * [Photon](photonics/photon.md)
   * [Thermion](photonics/thermion.md)
   * [Reflow](photonics/reflow.md)
+* [Manufacturing](manufacturing/README.md)
+  * [Matrix](manufacturing/matrix.md)
 
 ## Contact <a id="contact-1"></a>
 
