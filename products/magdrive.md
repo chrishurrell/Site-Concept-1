@@ -2,5 +2,5 @@
 description: Electric Vehicle Traction Motor.
 ---
 
-# MagDrive
+# QForce
 

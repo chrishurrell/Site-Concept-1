@@ -18,29 +18,15 @@ We do full-spectrum development, researching and prototyping, business developme
 
 Products under active development
 
-## [Q-Drive](q-drive.md)
+{% page-ref page="products/q-drive.md" %}
 
-Spatial Situational Awareness for Autonomous Vehicles.
+{% page-ref page="products/magride.md" %}
 
-## [MagRide](magride.md)
+{% page-ref page="products/magdrive.md" %}
 
-Regenerative Suspension System.
+{% page-ref page="products/magnatrak.md" %}
 
-## [MagnaTrak](magnatrak.md)
+{% page-ref page="products/rangemaster.md" %}
 
-Electromagnetic Drivetrain.
-
-## [MagDrive](magdrive.md)
-
-Electric Vehicle Traction Motor.
-
-## [RangeMaster](rangemaster.md)
-
-Electric Vehicle Range Extender
-
-
-
-
-
-
+{% page-ref page="products/connect.md" %}
 
