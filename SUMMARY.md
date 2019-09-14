@@ -23,5 +23,5 @@
 
 ## Legal
 
-* [Legal](legal/legal.md)
+* [Copyright Notice](legal/legal.md)
 
