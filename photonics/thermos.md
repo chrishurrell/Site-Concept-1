@@ -7,15 +7,15 @@ description: >-
 
 # Thermos
 
-**QuantaWave Thermos** utilizes various types of transducers to achieve shaping
+**IIM Thermos** utilizes various types of transducers to achieve shaping
 
 * Photonic
 * Sonic
 * Electrical
 
-**QuantaWave Thermos** is designed to create new types of allows fused from metal and crystal, and aims to develop **new materials** that can lead to the creation of novel new technologies.
+**IIM Thermos** is designed to create new types of fused crystals, crystal and metal alloys, and aims to develop **new materials** that can lead to the creation of novel new technologies.
 
-QuantaWave caters to the following **industries**:
+IIM caters to the following **industries**:
 
 * automotive
 * healthcare

@@ -6,7 +6,9 @@ description: >-
 
 # Photon
 
-The **Quantawave** **Photon** is a laser designed for laser-sintering, welding, smelting and programming and will be used in the [**Frontera RMS**](https://frontera.iim.technology/projects/manufacturing/leoxmf) **\(**rapid maufacturing facility\).
+The **IIM** **Photon** is a laser designed for laser-sintering, welding, smelting and programming and will be used in the [**Frontera RMS**](https://frontera.iim.technology/projects/manufacturing/leoxmf) **\(**rapid maufacturing facility\).
+
+**Photon** is used in conjunction with [**Matrix**](../manufacturing/matrix.md) in the [**Frontera Rapid Manufacturing Station**](https://frontera.iim.technology)**.**
 
 Photon employs a **twisted hexagonal crystal waveguide** manufactured from proprietary materials in order to produce novel beam configurations.
 
@@ -16,7 +18,7 @@ A typical laser configuration consists of a Photon **concentrator** coupled via 
 
 The prototype **5kW & 50kW** Photon installations will be built in **South Africa** in **2020.**
 
-​**Photon** is a product of [**Quantawave**](http://wave.quantacom.co) \( _wave.quantacom.co \)_
+​
 
 **See More**
 
