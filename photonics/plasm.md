@@ -16,6 +16,7 @@ description: >-
 
 * Transmitter Module/s
 * Controller Module
+* Waveguide
 * Cabling
 
 
