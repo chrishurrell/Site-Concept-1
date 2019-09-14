@@ -4,13 +4,5 @@ description: 'Energy Storage for Electric Vehicles, Industry or Residential appl
 
 # Battery
 
-IIM Cellular developers Energy Storage batteries for homes, factories & electric vehicles.
-
-**IIM** is developing batteries in the following sizes
-
-* 10kW
-* 30kW
-* 60kW
-
-
+**IIM Battery** develops Energy Storage Solutions for homes, industry, electric vehicles, marine and [**space technologies**](https://frontera.iim.technology) ****using state-of-the-art battery cells.
 

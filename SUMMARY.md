@@ -19,11 +19,11 @@
 * [Defence](defence/README.md)
   * [Starfire](defence/starfire.md)
 * [Astral](astral/README.md)
-  * [Untitled](astral/untitled.md)
   * [Products](astral/products/README.md)
+    * [Transmute](astral/products/transmute-1.md)
     * [Armadillo](astral/products/armadillo.md)
     * [Wearable](astral/products/wearable.md)
-    * [Transmute](astral/products/transmute.md)
+    * [Blueshift](astral/products/transmute.md)
     * [Vault](astral/products/vault.md)
 * [Energy](energy/README.md)
   * [Utilities](energy/utilities/README.md)
@@ -31,7 +31,7 @@
     * [EM Watchtower](energy/utilities/em-watchtower.md)
   * [PowerFlow](energy/powerflow.md)
   * [Battery](energy/energy-storage.md)
-  * [GraviStore](energy/gravistore.md)
+  * [Grav](energy/gravistore.md)
 
 ## Contact <a id="contact-1"></a>
 

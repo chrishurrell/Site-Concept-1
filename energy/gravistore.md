@@ -2,7 +2,7 @@
 description: Gravitational energy storage system.
 ---
 
-# GraviStore
+# Grav
 
 Gravitational Energy Storage system.
 

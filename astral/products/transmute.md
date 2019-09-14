@@ -1,10 +1,10 @@
 ---
-description: Astral transmutation System
+description: Photonic astral transmutation System
 ---
 
-# Transmute
+# Blueshift
 
-Device for the programming & transmutation of astral matter using photonics.
+Device for the programming & transmutation of astral matter using light.
 
 Utilises [**IIM Photon**](../../photonics/photon.md).
 
