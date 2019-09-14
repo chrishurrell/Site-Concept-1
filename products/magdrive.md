@@ -8,3 +8,29 @@ description: Electric Vehicle Traction Motor
 
 **QForce** is designed to work in conjunction with [**QTrak**](magnatrak.md), [**QGen**](magride.md) and [**Connect**](connect.md). 
 
+
+
+### **Models**
+
+#### F1
+
+70kW motor for sedans.
+
+
+
+#### F2
+
+150kW motor for **SUVs** and **light trucks**.
+
+
+
+#### F3
+
+250Kw motor for **buses**.
+
+
+
+#### Fmax
+
+1000Kw motor assembly consisting of **4 x F3 motors** in a mesh gearbox. For industrial vehicles.
+

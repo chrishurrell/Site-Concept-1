@@ -2,7 +2,7 @@
 
 * [Innovation in Motion : Product Development & Technology Consultancy](README.md)
 * [Products](products/README.md)
-  * [QDrive](products/q-drive.md)
+  * [EnviraMind : QDrive](products/q-drive.md)
   * [QGen](products/magride.md)
   * [QForce](products/magdrive.md)
   * [QTrak](products/magnatrak.md)
