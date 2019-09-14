@@ -4,9 +4,9 @@ description: EM Defence Tiles
 
 # Armadillo
 
-IIM Armadillo is a smart-ceramic tile system For Protection Against Electromagnetic, Astral and Psychotronic Interference. 
+**IIM Armadillo** is a smart-ceramic tile system For Protection Against Electromagnetic, Astral and Psychotronic Interference. 
 
-Utilises QuantaCoreOS for remote monitoring and forms part of a suite of environmental energy conditioning and management modules.
+Offers remote monitoring and forms part of a suite of environmental energy conditioning and management modules.
 
 **Applications**:
 
