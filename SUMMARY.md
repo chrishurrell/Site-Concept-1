@@ -41,9 +41,8 @@
     * [Link](dreamtech/nexus/untitled-2.md)
     * [Code](dreamtech/nexus/untitled-1.md)
     * [iD](dreamtech/nexus/untitled.md)
-  * [Bedgear](dreamtech/bedgear/README.md)
-    * [Pillow](dreamtech/bedgear/pillow.md)
-    * [Comfort Zone](dreamtech/bedgear/comfort-zone.md)
+  * [Comfort Zone](dreamtech/comfort-zone/README.md)
+    * [Pillow](dreamtech/comfort-zone/pillow.md)
   * [Helmet](dreamtech/helmet.md)
 
 ## Contact <a id="contact-1"></a>
