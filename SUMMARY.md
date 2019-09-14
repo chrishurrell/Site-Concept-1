@@ -11,8 +11,10 @@
   * [QMax](products/rangemaster.md)
   * [Connect](products/connect.md)
 * [Photonics](untitled/README.md)
+  * [Thermos](untitled/thermos.md)
+  * [Photon](untitled/photon.md)
+  * [Thermion](untitled/thermion.md)
   * [Reflow](untitled/reflow.md)
-* [Untitled](untitled-1.md)
 
 ## Contact <a id="contact-1"></a>
 
