@@ -14,19 +14,23 @@ We do full-spectrum development, researching and prototyping, business developme
 
 ![](.gitbook/assets/iim-electric-vehicle-sybsystems.png)
 
-
-
 Products under active development
 
-{% page-ref page="products/q-drive.md" %}
+{% page-ref page="products/" %}
 
-{% page-ref page="products/magride.md" %}
+{% page-ref page="photonics/" %}
 
-{% page-ref page="products/magdrive.md" %}
+{% page-ref page="manufacturing/" %}
 
-{% page-ref page="products/magnatrak.md" %}
+{% page-ref page="energy/" %}
 
-{% page-ref page="products/rangemaster.md" %}
+{% page-ref page="astral/" %}
 
-{% page-ref page="products/connect.md" %}
+{% page-ref page="defence/" %}
+
+
+
+
+
+
 
