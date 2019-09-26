@@ -10,7 +10,7 @@ IIM is a product development & technology consultancy firm focusing on high-tech
 
 We do full-spectrum development, researching and prototyping, business development, marketing and design in the high-technology space.
 
-
+Contact **quantacomsoftware@gmail.com**
 
 ![](.gitbook/assets/iim-electric-vehicle-sybsystems.png)
 
