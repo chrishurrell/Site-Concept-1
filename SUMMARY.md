@@ -3,6 +3,8 @@
 * [Innovation in Motion : Product Design & Development](README.md)
 * [Marine](marine/README.md)
   * [Utility](marine/utility/README.md)
+    * [Safety](marine/utility/safety/README.md)
+      * [Emergency Response Transponder](marine/utility/safety/emergency-response-transponder.md)
     * [Universal Control & Communications](marine/utility/universal-control-and-communications.md)
     * [Energy](marine/utility/energy/README.md)
       * [Hydrogen](marine/utility/energy/hydrogen-generation.md)
