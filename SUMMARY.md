@@ -1,6 +1,17 @@
 # Table of contents
 
 * [Innovation in Motion : Product Design & Development](README.md)
+* [Marine](marine/README.md)
+  * [Utility](marine/utility/README.md)
+    * [Energy](marine/utility/energy/README.md)
+      * [Solaris](marine/utility/energy/solaris.md)
+    * [Hydrogen Generation](marine/utility/hydrogen-generation.md)
+    * [Waste-to-Energy](marine/utility/waste-to-energy.md)
+    * [Water Management](marine/utility/water-management.md)
+  * [Vessels](marine/vessels/README.md)
+    * [OceanMaster](marine/vessels/oceanmaster.md)
+    * [Wave](marine/vessels/wave.md)
+    * [Voyager](marine/vessels/voyager.md)
 * [EV](ev/README.md)
   * [EnviraMind : QDrive](ev/q-drive.md)
   * [QGen](ev/magride.md)
