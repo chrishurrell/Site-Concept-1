@@ -1,5 +1,5 @@
 ---
-description: Marine products
+description: Marine products by IIM
 ---
 
 # Marine
