@@ -11,6 +11,7 @@
       * [Solaris](marine/utility/energy/solaris.md)
     * [Water Management](marine/utility/water-management.md)
   * [Vessels](marine/vessels/README.md)
+    * [Drone](marine/vessels/drone.md)
     * [OceanMaster](marine/vessels/oceanmaster.md)
     * [Wave](marine/vessels/wave.md)
     * [Voyager](marine/vessels/voyager.md)

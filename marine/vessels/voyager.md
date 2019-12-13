@@ -9,7 +9,7 @@ Voyager employs state-of-the-art manufacturing techniques and integrates advance
 ### Architecture
 
 * Stainless steel hull and deck
-* Full electronic automation of all rigging systems, sails etc removing the need for traditional hands-on sailing techniques.
+* Full electronic automation of all rigging systems and sails, eliminating the need for traditional hands-on sailing techniques.
 * Variable folding mast for providing unique boating configurations
 * Hybrid engine utilising electric, hydrogen and conventional fuels for propulsion
 * Modular component based interior architecture for providing high-customization capability
