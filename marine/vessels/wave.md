@@ -4,16 +4,16 @@ description: Next-generation catamaran sailing yacht. 30 -50 Ft
 
 # Wave
 
-Voyager employs state-of-the-art manufacturing techniques and integrates advanced technologies to offer the next generation yachting experience.
+**IIM Marine Wave** employs state-of-the-art manufacturing techniques and integrates advanced technologies to offer the next generation yachting experience.
 
 ### Architecture
 
-* Stainless steel hull and deck
-* Full electronic automation of all rigging systems, sails etc
+* Stainless Steel or Aluminium hull and deck
+* Full electronic automation of rigging systems & sails.
 * Variable mast for providing unique boating configurations
 * Hybrid engine utilising electric, hydrogen and conventional fuels for propulsion
 * Modular component based interior architecture for providing high-customization capability
-* Comprehensive RF and networking capability using mast-integrated RF systems
+* Comprehensive RF and networking capability leveraging fiber-optic networks and mast-integrated RF systems
 
 ### Subsystems
 

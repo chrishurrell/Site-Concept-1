@@ -10,12 +10,12 @@ Designed for ocean living and round-the-world-cruises for larger crew of 5 - 10 
 
 ### Architecture
 
-* Stainless steel hull and deck
-* Full electronic automation of all rigging systems, sails etc
+* Stainless Steel or Aluminium hull and deck
+* Full electronic automation of rigging systems & sails.
 * Variable mast for providing unique boating configurations
 * Hybrid engine utilising electric, hydrogen and conventional fuels for propulsion
 * Modular component based interior architecture for providing high-customization capability
-* Comprehensive RF and networking capability using mast-integrated RF systems
+* Comprehensive RF and networking capability leveraging fiber-optic networks and mast-integrated RF systems
 
 ### Subsystems
 
