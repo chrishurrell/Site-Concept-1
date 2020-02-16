@@ -1,10 +1,14 @@
 ---
 description: >-
-  IIM is a product development studio focusing on high-tech applications. [
-  info@iim.technology ]
+  IIM engineering is a product development studio focusing on high-tech
+  applications. [ info@iim.technology ]
 ---
 
-# Innovation in Motion : Product Design & Development
+# Infinity in Motion
+
+Innovation in Life
+
+Innovation in I
 
 IIM is a product development & technology consultancy firm focusing on high-tech hardware, aerospace, software and automotive applications. 
 
