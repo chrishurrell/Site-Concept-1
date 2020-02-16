@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Infinity in Motion : Engineering & Product Development](README.md)
+* [Intelligence in Motion : Engineering & Product Development](README.md)
 * [Marine](marine/README.md)
   * [Utility](marine/utility/README.md)
     * [Safety](marine/utility/safety/README.md)

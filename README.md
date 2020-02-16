@@ -1,12 +1,12 @@
 ---
 description: >-
   IIM engineering is a product development studio focusing on high-tech
-  applications. [ info@iim.technology ]
+  applications. [ quantacomsoftware@gmail.com ]
 ---
 
-# Infinity in Motion : Engineering & Product Development
+# Intelligence in Motion : Engineering & Product Development
 
-**IIM** \( Infinity in Motion \) is an engineering, product development & technology consultancy firm focusing on high-tech hardware and software for aerospace, software, automotive and consumer applications. 
+**IIM** \( Intelligence in Motion \) is an engineering, product development & technology consultancy firm focusing on high-tech hardware and software for aerospace, software, automotive and consumer applications. 
 
 We do full-spectrum development, researching and prototyping, business development, marketing and design in the high-technology space.
 
