@@ -1,12 +1,12 @@
 ---
 description: >-
-  IIM is a product development studio focusing on high-tech applications. [
-  info@iim.technology ]
+  IIM engineering is a product development studio focusing on high-tech
+  applications. [ quantacomsoftware@gmail.com ]
 ---
 
-# Innovation in Motion : Product Design & Development
+# Engineering & Product Development : Intelligence in Motion
 
-IIM is a product development & technology consultancy firm focusing on high-tech hardware, aerospace, software and automotive applications. 
+#### **IIM** \( Intelligence in Motion \) is an engineering, product development & technology consultancy firm focusing on high-tech hardware and software for aerospace, software, automotive and consumer applications. 
 
 We do full-spectrum development, researching and prototyping, business development, marketing and design in the high-technology space.
 

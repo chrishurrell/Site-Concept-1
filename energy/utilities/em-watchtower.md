@@ -8,5 +8,5 @@ description: >-
 
 **IIM EM Watchtower** is a monitor for detecting psychotronic, astral or electromagnetic interference.
 
-Connects to QuantaCoreOS for data-acquisition, reporting and remote-access.
+Connects to QCoreOS for data-acquisition, reporting and remote-access.
 

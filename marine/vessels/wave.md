@@ -2,7 +2,7 @@
 description: Next-generation catamaran sailing yacht. 30 -50 Ft
 ---
 
-# Wave
+# Wave2
 
 **IIM Marine Wave** employs state-of-the-art manufacturing techniques and integrates advanced technologies to offer the next generation yachting experience.
 
@@ -16,4 +16,8 @@ description: Next-generation catamaran sailing yacht. 30 -50 Ft
 * Comprehensive RF and networking capability leveraging fiber-optic networks and mast-integrated RF systems
 
 ### Subsystems
+
+
+
+Distributed by **Quest Marine**
 

@@ -19,3 +19,5 @@ Designed for ocean living and round-the-world-cruises for larger crew of 5 - 10 
 
 ### Subsystems
 
+Distributed by **Quest Marine**
+
