@@ -4,13 +4,9 @@ description: >-
   applications. [ info@iim.technology ]
 ---
 
-# Infinity in Motion
+# Infinity in Motion : Engineering & Product Development
 
-Innovation in Life
-
-Innovation in I
-
-IIM is a product development & technology consultancy firm focusing on high-tech hardware, aerospace, software and automotive applications. 
+**IIM** \( Infinity in Motion \) is an engineering, product development & technology consultancy firm focusing on high-tech hardware and software for aerospace, software, automotive and consumer applications. 
 
 We do full-spectrum development, researching and prototyping, business development, marketing and design in the high-technology space.
 
