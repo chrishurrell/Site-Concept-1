@@ -9,7 +9,7 @@ description: >-
 
 ![IIM : Intelligence in Motion](.gitbook/assets/iim-electric-vehicle-sybsystems%20%281%29.png)
 
-### **IIM** \( Intelligence in Motion \) is a **boutique** engineering, product development, technology & consultancy firm focusing on developing innovative hardware and software solutions for aerospace, software, automotive and consumer verticals. 
+### **IIM** \( Intelligence in Motion \) is a **boutique** engineering, product development, technology & consultancy firm focusing on developing innovative hardware and software solutions for aerospace, software, automotive, AR, VR and consumer verticals. 
 
 
 
