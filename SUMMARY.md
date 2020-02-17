@@ -90,7 +90,10 @@
 ## Contact <a id="contact-1"></a>
 
 * [Contact](contact-1/contact.md)
-* [Invest](contact-1/invest.md)
+* [Invest](contact-1/invest/README.md)
+  * [Phase 1](contact-1/invest/phase-1.md)
+  * [Phase 2](contact-1/invest/phase-2.md)
+  * [Phase 3](contact-1/invest/phase-3.md)
 
 ## Legal
 

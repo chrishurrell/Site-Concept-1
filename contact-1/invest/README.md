@@ -14,7 +14,7 @@ We are using a rolling-funding source as operational capital, powered by [**UNIT
 
 If you would like to discuss investment opportunities related to the **IIM**, please send an email to : **quantacomsoftware@gmail.com**
 
-![UNIT Investment Platform](../.gitbook/assets/iim-electric-vehicle-sybsystems-4.png)
+![UNIT Investment Platform](../../.gitbook/assets/iim-electric-vehicle-sybsystems-4.png)
 
 
 
