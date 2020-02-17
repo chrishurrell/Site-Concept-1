@@ -4,19 +4,17 @@ description: Copyright Notice
 
 # Copyright Notice
 
-All creative work Copyright 
+All creative work Copyright 2019 - 200. All Rights Reserved.
 
-**Christopher Graham Hurrell** 
+**Graham Hurrell - Christopher Hurrell - IIM Technology Development Company South Africa - Inteliigence in Motion - https://iim.technology**
 
-**IIM Technology Development Company South Africa**
+\*\*\*\*
 
-**IIM.technology**
+### **Contact**
 
+**Email** quantacomsoftware@gmail.com
 
+**Mobile** +27 74 354 2957
 
-Year: 2019
-
-Email: quantacomsoftware@gmail.com
-
-Mobile: +27 74 354 2957
+South Africa
 
