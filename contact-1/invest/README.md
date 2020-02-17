@@ -1,5 +1,5 @@
 ---
-description: A truly exciting Investment opportunity
+description: A truly exciting Investment opportunity that will change your life forever
 ---
 
 # Invest
@@ -10,7 +10,9 @@ This is a 20 year journey, not a fly-by-night operation. We're ambitious about d
 
 We're serious about this business and the creative freedom it provides, so if you want to make money with us and help bring something amazing into this world, get in touch sooner rather than later.
 
-We are using a rolling-funding source as operational capital, powered by [**UNIT Investment Platform** ](https://unit.quantacom.co)and its members. **UNIT** allows you to purchase investment shares in a few seconds using easy payment providers.
+We are using a rolling-funding source as operational capital, powered by [**UNIT Investment Platform** ](https://unit.quantacom.co)and its members. 
+
+**UNIT** allows you to purchase monthly investment subscriptions and acquire shares in a few seconds using easy payment providers.
 
 If you would like to discuss investment opportunities related to the **IIM**, please send an email to : **quantacomsoftware@gmail.com**
 
