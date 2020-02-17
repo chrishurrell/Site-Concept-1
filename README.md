@@ -26,23 +26,7 @@ Contact **quantacomsoftware@gmail.com**
 
 
 
-#### Products under active development
-
-{% page-ref page="ev/" %}
-
-{% page-ref page="photonics/" %}
-
-{% page-ref page="manufacturing/" %}
-
-{% page-ref page="energy/" %}
-
-{% page-ref page="astral/" %}
-
-{% page-ref page="defence/" %}
-
-
-
-
+#### Browse the catalogue using the menu on the left.
 
 
 

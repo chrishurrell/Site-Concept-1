@@ -1,5 +1,5 @@
 ---
-description: Waste conversion systems for producing biogas for cooking
+description: Marine waste conversion systems
 ---
 
 # Waste-to-Energy

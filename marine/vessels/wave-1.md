@@ -2,7 +2,7 @@
 description: Surfboards
 ---
 
-# Wave
+# Surf
 
 Distributed by **Quest Marine**
 

@@ -1,12 +1,12 @@
 ---
-description: Next-generation mono-hull cruiser sailing yacht.50 - 100 Ft +
+description: Next-generation mono-hull cruiser sailing yacht.50 - 70 Ft +
 ---
 
-# OceanMaster
+# OceanMaster Sail
 
-Cruiser employs state-of-the-art manufacturing techniques and integrates advanced technologies to offer the next generation yachting experience.
+The **IIM OceanMaster Sail** employs state-of-the-art manufacturing techniques and integrates advanced technologies to offer the next generation yachting experience.
 
-Designed for ocean living and round-the-world-cruises for larger crew of 5 - 10 members.
+Designed for ocean living and round-the-world-cruises for crew of 5 - 10 members.
 
 ### Architecture
 

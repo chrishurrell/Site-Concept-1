@@ -1,10 +1,16 @@
 ---
-description: Next-generation mono-hull sailing yacht. 30 -50 Ft
+description: Next-generation mono-hull sailing yacht. 20 -50 Ft
 ---
 
 # Voyager
 
 The **IIM Marine Voyager** employs state-of-the-art manufacturing techniques and integrates advanced technologies to offer the next generation yachting experience.
+
+**Voyager** comes in 3 sizes:
+
+* 20ft
+* 35ft
+* 50 ft
 
 ### Architecture
 

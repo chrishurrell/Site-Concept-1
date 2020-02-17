@@ -2,9 +2,9 @@
 description: Next-generation catamaran sailing yacht. 30 -50 Ft
 ---
 
-# Wave2
+# OceanMaster2
 
-**IIM Marine Wave** employs state-of-the-art manufacturing techniques and integrates advanced technologies to offer the next generation yachting experience.
+**The IIM OceanMaster2**  employs state-of-the-art manufacturing techniques and integrates advanced technologies to offer the next generation yachting experience.
 
 ### Architecture
 
