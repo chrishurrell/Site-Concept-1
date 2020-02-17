@@ -1,7 +1,8 @@
 ---
 description: >-
-  IIM engineering is a boutique product development studio focusing on high-tech
-  applications. [ quantacomsoftware@gmail.com ]
+  IIM ( Intelligence in Motion ) is a boutique engineering, product development,
+  technology & consultancy firm focusing on developing innovative hardware and
+  software solutions for aerospace, software,
 ---
 
 # Engineering & Product Development : Intelligence in Motion
@@ -10,15 +11,16 @@ description: >-
 
 
 
-**Services and Capabilities**
+### **Services and Capabilities**
 
-* full-spectrum development, 
-* researching and prototyping, 
-* business development, 
-* design
-* marketing 
+* Full-spectrum development, 
+* Full-service IT 
+* Researching and prototyping, 
+* Business development, 
+* Design
+* Marketing 
 
-\*\*\*\*
+
 
 ### **Invest**
 
