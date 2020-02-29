@@ -1,22 +1,28 @@
 ---
-description: Electric Vehicle Traction Motor
+description: Electric Vehicle Motors
 ---
 
-# QForce
+# GForce
 
-**QForce** is an electric vehicle traction motor for delivering smooth torque, high-power and efficient energy conversion.
+**GForce** is an electric vehicle traction motor for delivering smooth torque, high-power and efficient energy conversion.
 
-**QForce** is designed to work in conjunction with [**QTrak**](magnatrak.md), [**QGen**](magride.md) and [**Connect**](connect.md). 
+**GForce** is designed to work in conjunction with [**GTrac**](magnatrak.md), [**GMotion**](magride.md) and [**Connect**](connect.md). 
+
+**GForce** is designed to work in arrays offering customizable energy output and regeneration and comes in modular 20kw motors. To create an 80kw motor, 4 x 20kw motors are stacked. Arrays can be horizontal or vertical with the use of a gearbox.
+
+By default the motor power output is being harnessed for regeneration. GForce motor systems are designed to integrate with **GTrac** drivetrain regeneration systems to provide a constant stream of recharging energy to vehicle batteries.
 
 
 
-### **Models**
+### **Common Stacks**
 
-**F1** : 70kW motor for sedans.
+**F1** : **60kW** stack for light sedans
 
-**F2** : **150kW** motor for **SUVs** and **light trucks**.
+**F2** : **140kW** stack for **SUVs** and **light trucks**
 
-**F3** : **250kW** motor for **buses**.
+**F3** : **280kW** stack for **buses and light industrial trucks**
 
-**Fmax** : **1000kW** motor assembly consisting of **4 x F3 motors** in a mesh gearbox. For industrial vehicles.
+**F4** : **1 MW** stack for sports cars & heavy industrial vehicles
+
+
 
