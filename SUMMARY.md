@@ -1,6 +1,7 @@
 # Table of contents
 
 * [IIM : Engineering & Product Development : Intelligence in Motion](README.md)
+* [Space](space.md)
 * [Air](air/README.md)
   * [UAV](air/uav/README.md)
     * [Worker](air/uav/worker.md)
@@ -39,11 +40,12 @@
 * [EV](ev/README.md)
   * [GMotion](ev/magride.md)
   * [GForce](ev/magdrive.md)
-  * [EnviraMind : QDrive](ev/q-drive.md)
   * [GTrac](ev/magnatrak.md)
   * [EMax](ev/rangemaster.md)
-  * [Connect](ev/connect.md)
-  * [ChargeStation](ev/chargestation.md)
+  * [Utility](ev/utility/README.md)
+    * [ChargeStation](ev/utility/chargestation.md)
+    * [Connect](ev/utility/connect.md)
+    * [EnviraMind : QDrive](ev/utility/q-drive.md)
 * [Photonics](photonics/README.md)
   * [Energy](photonics/energy/README.md)
     * [E1 Electrolysis](photonics/energy/e1.md)
