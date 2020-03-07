@@ -22,5 +22,9 @@ We need investors / contributors to make this happen. Please contact quantacomso
 
 
 
+![](../../.gitbook/assets/untitled.png)
+
+![](../../.gitbook/assets/yahc2.png)
+
 
 
