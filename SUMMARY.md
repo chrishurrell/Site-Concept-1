@@ -10,6 +10,8 @@
   * [Microlight](air/microlight.md)
 * [Marine](marine/README.md)
   * [Utility](marine/utility/README.md)
+    * [Video](marine/utility/video/README.md)
+      * [Oceanview](marine/utility/video/oceanview.md)
     * [Connectivity](marine/utility/connectivity/README.md)
       * [Network](marine/utility/connectivity/network.md)
       * [Universal Command Center](marine/utility/connectivity/universal-control-and-communications.md)
