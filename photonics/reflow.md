@@ -31,7 +31,7 @@ Sourced from:
 * South Africa
 * Namibia
 * Zimbabwe
-* 
+
 Technological Improvements to this process are under development and can be seen in the following products and systems:
 
 {% page-ref page="thermos.md" %}
