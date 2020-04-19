@@ -6,11 +6,13 @@ description: >-
 
 # Photon
 
-The **IIM** **Photon** is a laser designed for laser-sintering, welding, smelting and programming and will be used in the [**Frontera RMS**](https://frontera.iim.technology/projects/manufacturing/leoxmf) **\(**rapid maufacturing facility\).
+The **IIM** **Photon** is a concentrated solar laser designed for laser-sintering, welding, smelting and programming and will be used in the [**Frontera** ](https://frontera.iim.technology/projects/manufacturing/leoxmf) Rapid Maufacturing Facility.
+
+Due to the use of solar energy, Photon energy consumption is very low.
 
 **Photon** is used in conjunction with [**Matrix**](../manufacturing/matrix.md) in the [**Frontera Rapid Manufacturing Station**](https://frontera.iim.technology)**.**
 
-Photon employs a **twisted hexagonal crystal waveguide** manufactured from proprietary materials in order to produce novel beam configurations.
+Photon employs a **twisted hexagonal crystal wave-guide** manufactured from proprietary materials in order to produce novel beam configurations.
 
 Commercial units are planned with the following capacities: **5kW, 15kW, 35kW and 50kW.**
 
