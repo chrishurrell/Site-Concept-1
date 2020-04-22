@@ -24,7 +24,23 @@ The prototype **5kW & 50kW** Photon installations will be built in **South Afric
 
 **See More**
 
-[https://frontera.iim.technology/production/technology/propreitary/laser-sintering/photon-solar-laser-sintering](https://frontera.iim.technology/production/technology/propreitary/laser-sintering/photon-solar-laser-sintering)
+\*\*\*\*
+
+{% page-ref page="introduction.md" %}
+
+{% page-ref page="health-and-medical.md" %}
+
+{% page-ref page="architecture-iim-photon.md" %}
+
+{% embed url="https://frontera.iim.technology/production/technology/propreitary/laser-sintering/photon-solar-laser-sintering" %}
+
+
+
+
+
+
+
+
 
 Components
 
