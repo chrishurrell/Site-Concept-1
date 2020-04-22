@@ -4,7 +4,7 @@ description: >-
   accessories.
 ---
 
-# Health & Medical
+# IIM Photon : Health & Medical Applications
 
 ## Health & Medical
 

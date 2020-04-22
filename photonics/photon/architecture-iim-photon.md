@@ -4,7 +4,7 @@ description: >-
   developed components.
 ---
 
-# Architecture : IIM Photon
+# IIM Photon : Architecture
 
 ## Architecture
 

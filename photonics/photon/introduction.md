@@ -2,7 +2,7 @@
 description: The solar innovation we have all been waiting for
 ---
 
-# Introduction
+# IIM Photon : Introduction
 
 The _**IIM Photon**_ represents an exploration into what is possible when solar energy innovations are applied to industrial technologies such as laser systems.
 
