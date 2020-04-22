@@ -6,5 +6,5 @@ description: Photonic astral transmutation System
 
 Device for the programming & transmutation of astral matter using light.
 
-Utilises [**IIM Photon**](../../photonics/photon.md).
+Utilises [**IIM Photon**](../../photonics/photon/).
 

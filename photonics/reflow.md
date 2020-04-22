@@ -38,7 +38,7 @@ Technological Improvements to this process are under development and can be seen
 
 In addition to this, Quantawave is developing novel laser systems:
 
-{% page-ref page="photon.md" %}
+{% page-ref page="photon/" %}
 
 
 
