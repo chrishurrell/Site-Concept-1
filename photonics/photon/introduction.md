@@ -4,7 +4,7 @@ description: The solar innovation we have all been waiting for
 
 # IIM Photon : Introduction
 
-The _**IIM Photon**_ represents an exploration into what is possible when solar energy innovations are applied to industrial technologies such as laser systems.
+### The _**IIM Photon**_ represents an exploration into what is possible when solar energy innovations are applied to industrial technologies such as laser systems.
 
 IIM Photon leverages state-of-the-art laser developments to provide an end-product that fits into modern production workflows, allowing easy integration with existing laser systems.
 
@@ -14,12 +14,12 @@ If used for 7 hours per day results in 350kWh per day, 2450kWh per week, 9800kWh
 
 Using the Eskom Industrial electricity tariff of R3.38/kWh, this results in an annual electricity cost of R397 488 or roughly R400 000
 
-So to summarize, the IIM Photon can save around R400 000 per year per laser on energy costs.
+The IIM Photon can save around **R400 000 per year** per laser on energy costs for small factories.
 
-For larger industrial applications utilising arrays of large lasers, we can realize millions of rands saved on energy costs per year.
+### For larger industrial applications utilising arrays of large lasers, cost savings are a lot more significant.
 
 Besides the obvious energy cost savings, due to its modular architecture, the IIM Photon can theoretically achieve higher power outputs than conventional industrial laser systems, potentially achieving power outputs of hundreds of kilowatts per laser. While this may seem unnecessary, it is important to note its potential.
 
-The IIM Photon is intended for use in regions with high solar radiance such as Southern Africa, as well as space-based applications.  
+The [**IIM:Photon**](./) is intended for use in regions with high solar radiance, as well as space-based applications.  
 
 

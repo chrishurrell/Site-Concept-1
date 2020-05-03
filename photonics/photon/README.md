@@ -8,6 +8,8 @@ description: >-
 
 ### The **IIM**:**Photon** is a concentrated solar laser designed for laser-sintering, welding, smelting and programming and will be used in the [**Frontera** ](https://frontera.iim.technology/projects/manufacturing/leoxmf) Rapid Maufacturing Facility.
 
+### 
+
 Since solar energy is our primary energy source, energy cost is low.
 
 **Photon** is used in conjunction with [**Matrix**](../../manufacturing/matrix.md) in the [**Frontera Rapid Manufacturing Station**](https://frontera.iim.technology)**.**
@@ -21,6 +23,8 @@ A typical laser configuration consists of a Photon **concentrator** coupled via 
 The prototype **5kW & 50kW** Photon installations will be built in **South Africa** in **2020.**
 
 The _IIM:Photon_ uses [**batteries for storing energy**](../../energy/energy-storage.md) while the system is inactive and powers auxiliary lasers​ when solar irradiance is low.
+
+![](../../.gitbook/assets/laser-2819138_960_720.jpg)
 
  
 
