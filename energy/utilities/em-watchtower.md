@@ -4,7 +4,7 @@ description: >-
   interference.
 ---
 
-# EM Watchtower
+# EM Watchtower : EM Smog Monitor
 
 **IIM EM Watchtower** is a monitor for detecting psychotronic, astral or electromagnetic interference.
 

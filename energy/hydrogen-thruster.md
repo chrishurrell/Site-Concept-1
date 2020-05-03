@@ -2,7 +2,7 @@
 description: Hydrogen Thruster
 ---
 
-# H1 Thruster
+# H1 Thruster : Hydrogren Thruster
 
 The **H1** is a hydrogen-powered thruster, utilising electrolysis to generate hydrogen fuel.
 

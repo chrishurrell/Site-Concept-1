@@ -2,7 +2,7 @@
 description: Gravitational energy storage system.
 ---
 
-# Grav
+# Grav : Gravitational Energy Storage
 
 ## The **IIM Grav** is a gravity energy storage system.
 

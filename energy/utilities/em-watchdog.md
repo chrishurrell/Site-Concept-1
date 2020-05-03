@@ -2,7 +2,7 @@
 description: 'EM Auto-response Utility for Astral, Psychotronic, Microwave defence.'
 ---
 
-# EM Watchdog
+# EM Watchdog : EM Smog Sensor System
 
 **IIM EM Watchdog** is an electromagnetic auto-response Utility for astral, psychotronic or microwave interference.
 

@@ -2,7 +2,7 @@
 description: Concentrated solar collector powering a stream turbine for energy generation.
 ---
 
-# Solar Turbine
+# Solar Turbine : Energy Generation
 
 ### Concentrated solar collector powering a stream turbine for energy generation.
 
