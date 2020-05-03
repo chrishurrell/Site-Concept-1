@@ -12,5 +12,13 @@ Can be used as stackable array to form a battery or as a variable voltage portab
 
 We're still experimenting to find the best chemistry to power battery banks, but the choice rests between lithium ion and lithium iron phosphate.
 
+Applications:
+
+{% page-ref page="../marine/vessels/one.md" %}
+
+{% page-ref page="../photonics/photon/" %}
+
+
+
 
 
