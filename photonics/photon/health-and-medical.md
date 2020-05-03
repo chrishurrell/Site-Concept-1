@@ -17,7 +17,7 @@ The medical laser industry is a large and established market.
 [https://www.alliedmarketresearch.com/medical-lasers-market](https://www.alliedmarketresearch.com/medical-lasers-market)  
 
 
-_**IIM Photon**_ will be designed to easily integrate within existing medical laser setups. Photon merely substitutes the source power with an eco-friendly source, solar energy.
+_**IIM Photon**_ is designed to integrate within existing medical laser setups, substituting the source laser with eco-friendly, uninterruptable solar energy.
 
 With the integration of a range of accessories, various laser types can be configured to perform various medical treatments. 
 

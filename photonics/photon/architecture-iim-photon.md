@@ -14,7 +14,7 @@ A unique characteristic of modern industrial lasers is the pulsed frequency whic
 
 In order to achieve this with the IIM Photon, specific laser filters and mixers are being developed to create variable frequency pulsed lasers and laser characteristics useful for various applications.
 
-Not only is the Photon designed to offer variable frequency laser output, but also variable wave shaping to achieve unique weld patterns and characteristics.  
+Not only is the Photon designed to offer variable frequency laser output, but also variable wave shaping to achieve unique laser patterns and characteristics.  
 
 
 #### Components : 
