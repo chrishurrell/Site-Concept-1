@@ -11,6 +11,10 @@ description: >-
 
 EnviraQ is designed to emulate electromagnetic environmental conditions in order to replicate subtle energy conditions found in earth, in space environments.
 
+{% embed url="https://medium.com/@qaiatech/leveraging-cutting-edge-scientific-development-to-improve-agricultural-quality-and-yield-440245e22ef2" %}
+
+
+
 ### The system also allows configuring custom seasonal emulation programs via **EnviraQ EE** in order to test novel yield enhancement techniques. 
 
 **EnviraQ EE** can be used to mimic the ambient EM conditions of Siberia in a contained hydroponic facility in San Fransisco or even the International Space Station.
