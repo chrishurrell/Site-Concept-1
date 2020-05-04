@@ -15,7 +15,7 @@ See more : [**https://iimtech.8b.io/**](https://iimtech.8b.io/)\*\*\*\*
 
 ## Product Spotlight : IIM:EnviraQ
 
-{% page-ref page="agriculture-agritech/untitled/" %}
+{% page-ref page="agriculture-agritech/enviraq/" %}
 
 ## Product Spotlight : IIM:Photon
 
