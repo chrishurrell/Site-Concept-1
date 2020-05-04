@@ -43,7 +43,7 @@ See more : [**https://iimtech.8b.io/**](https://iimtech.8b.io/)\*\*\*\*
 
 This is a 20 year journey, not a fly-by-night operation. We're ambitious about delivering quality products that impact peoples lives in a positive way.
 
-We're serious about this business and the creative freedom it provides, so if you want to make money with us and help bring something amazing into this world, get in touch sooner rather than later.
+We're serious about this business, it's potential for positive impact and the creative freedom it provides so if you want to make a good investment, make money with us and help bring something amazing into this world, get in touch sooner rather than later.
 
 {% page-ref page="contact-1/invest/" %}
 
