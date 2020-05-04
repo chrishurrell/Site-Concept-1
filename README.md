@@ -39,8 +39,6 @@ See more : [**https://iimtech.8b.io/**](https://iimtech.8b.io/)\*\*\*\*
 * Quest : Life  / QAIA Life Tech 
 * Quest : Experience
 
-
-
 ## **IIM** is actively looking for smart investors. ****
 
 This is a 20 year journey, not a fly-by-night operation. We're ambitious about delivering quality products that impact peoples lives in a positive way.
