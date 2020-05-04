@@ -97,7 +97,8 @@
       * [Code](astral/dreamtech/nexus/untitled-1.md)
       * [iD](astral/dreamtech/nexus/untitled.md)
 * [Agriculture : Agritech](agriculture-agritech/README.md)
-  * [EnviraQ : EM Environmental Conditioning & Micro-Climatic-Emulation](agriculture-agritech/untitled.md)
+  * [EnviraQ : EM Environmental Conditioning & Micro-Climatic-Emulation](agriculture-agritech/untitled/README.md)
+    * [Leveraging cutting-edge scientific development to improve agricultural quality and yield](agriculture-agritech/untitled/leveraging-cutting-edge-scientific-development-to-improve-agricultural-quality-and-yield.md)
   * [SoilSys : Soil Conditioning System](agriculture-agritech/soilsys-soil-conditioning-system.md)
 
 ## Contact <a id="contact-1"></a>

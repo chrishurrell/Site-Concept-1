@@ -13,9 +13,15 @@ description: >-
 
 See more : [**https://iimtech.8b.io/**](https://iimtech.8b.io/)\*\*\*\*
 
+## Product Spotlight : IIM:EnviraQ
 
+{% page-ref page="agriculture-agritech/untitled/" %}
 
-### **Services and Capabilities**
+## Product Spotlight : IIM:Photon
+
+{% page-ref page="photonics/photon/" %}
+
+## **Services and Capabilities**
 
 * Full-spectrum product & service development
 * Full-service IT 
@@ -25,7 +31,7 @@ See more : [**https://iimtech.8b.io/**](https://iimtech.8b.io/)\*\*\*\*
 * Business development
 * Consultancy
 
-### Additional Resources
+## Additional Resources
 
 * Quest : Space / Frontera 
 * Quest : Expedition
@@ -35,15 +41,11 @@ See more : [**https://iimtech.8b.io/**](https://iimtech.8b.io/)\*\*\*\*
 
 
 
-### **IIM** is actively looking for smart investors. ****
+## **IIM** is actively looking for smart investors. ****
 
 This is a 20 year journey, not a fly-by-night operation. We're ambitious about delivering quality products that impact peoples lives in a positive way.
 
 We're serious about this business and the creative freedom it provides, so if you want to make money with us and help bring something amazing into this world, get in touch sooner rather than later.
 
-
-
-#### Browse the catalogue using the menu on the left.
-
-
+{% page-ref page="contact-1/invest/" %}
 
