@@ -1,6 +1,8 @@
 # Table of contents
 
 * [IIM : Engineering & Product Development : Intelligence in Motion](README.md)
+* [Consumer Tech](consumer-tech/README.md)
+  * [VibraWash](consumer-tech/vibrawash.md)
 * [Space](space.md)
 * [Air](air/README.md)
   * [UAV](air/uav/README.md)
@@ -62,6 +64,7 @@
 * [Photonics](photonics/README.md)
   * [Plasm : Plasma Technology](photonics/plasm.md)
   * [Photon](photonics/photon/README.md)
+    * [Extensions](photonics/photon/extensions.md)
     * [IIM Photon : Introduction](photonics/photon/introduction.md)
     * [IIM Photon : Architecture](photonics/photon/architecture-iim-photon.md)
     * [IIM Photon : Health & Medical Applications](photonics/photon/health-and-medical.md)
@@ -74,7 +77,7 @@
   * [Untitled](defence/untitled.md)
   * [Plasm D1](defence/plasm.md)
   * [Starfire](defence/starfire.md)
-* [Astral](astral/README.md)
+* [As](astral/README.md)
   * [Technical](astral/products/README.md)
     * [Imaging](astral/products/visual.md)
     * [PhotoShift](astral/products/transmute.md)
